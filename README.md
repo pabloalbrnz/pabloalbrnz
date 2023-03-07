@@ -1,5 +1,7 @@
+## About
+I'm a 19y ux/ui student, looking for jobs and freelances, working on some projects and being goofy.
 
-## 🌐 Socials:
+### 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/pulseim) [![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ErJHvmG99p) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pabloalbrnz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalbrnz) 
 
 ### 💻 Programming
