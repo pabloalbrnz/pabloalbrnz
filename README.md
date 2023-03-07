@@ -1,4 +1,4 @@
-## About
+## 🙍🏻 About
 I'm a 19y ux/ui student, looking for jobs and freelances, working on some projects and being goofy.
 
 ### 🌐 Socials
